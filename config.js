@@ -12,7 +12,7 @@ window.CONFIG = {
 
   // ---------- กุญแจจาก Google AI Studio ----------
   // ขอได้ที่  aistudio.google.com/apikey
-  KEY: "AQ.Ab8RN6I67yVwlaM-N2-wK8EExeaq5ZM_gumWbJbV6Q5L-MjhtA",
+  KEY: "AQ.Ab8RN6LtnSuEw7CHqZO3WgiiAXnKUoz6TOaBNN3gygs1MFx0YQ",
 
   // ---------- ที่อยู่ของเอกสาร ----------
   // เก็บไว้ใน repo เดียวกัน      ใช้  "docs"
